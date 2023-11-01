@@ -11,7 +11,7 @@ npm start
 ```
 to run.  The app will ask you for a race, enter a valid race and it will return the winner object in the format requested.
 
-| :zap:    If you need a test race you can copy paste from the rawResults.json file in the raw folder. 
+| :zap:    If you need a test race you can copy paste from the rawResults.json file in the raw folder after running the start script 
 |-----------------------------------------|
 
 ## Assumptions
@@ -29,7 +29,7 @@ to run.  The app will ask you for a race, enter a valid race and it will return 
 
 4. The program runs a small cli interface to ask the user what race it wants data results.(if you need something to copy paste here, a good spot is the rawResults.json file in the raw folder.)
 
-| :zap:    If you need a test race you can copy paste from the rawResults.json file in the raw folder. 
+| :zap:    If you need a test race you can copy paste from the rawResults.json file in the raw folder after running the start script 
 |-----------------------------------------|
 
 ## Why
